@@ -8,11 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/pratyushpritam2" target="blank"><img src="https://img.shields.io/twitter/follow/pratyushpritam2?logo=twitter&style=for-the-badge" alt="pratyushpritam2" /></a> </p>
 
-- 🔭 I’m currently working on **Updated soon...**
-
-- 👯 I’m looking to collaborate on **To be announced Soon**
-
-- 🤝 I’m looking for help with **Soonnn....**
+- 🔭 I’m currently working on **Flutter , Tensorflow**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pratyush-pritam](https://github.com/pratyush-pritam)
 
