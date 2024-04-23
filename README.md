@@ -1,6 +1,6 @@
 ![logo](https://github.com/pratyush-pritam/pratyush-pritam/blob/main/Gold%20Modern%20Business%20Developer%20LinkedIn%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Pratyush Pritam</h1>
-<h3 align="center">A passionate frontend developer from India , A Student, A developer, Creator, ITER' 26 , Google Student Developer Club</h3>
+<h3 align="center">A passionate frontend developer from India , A Student, A developer, Creator, ITER' 26 , Google Student Developer Club, <b>Media Head, AIC-SOA Foundation</b></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratyush-pritam&label=Profile%20views&color=0e75b6&style=flat" alt="pratyush-pritam" /> </p>
 
